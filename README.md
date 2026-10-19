@@ -75,7 +75,7 @@ java EstructuraDeDatos.Estructuras_Lineales.Programacion_Modular.MainColaDinamic
 
 ### Desde IntelliJ IDEA
 
-1. Abre el proyecto y verifica que los archivos estén en `src/EstructuraDeDatos/Estructuras_Lineales`.
+1. Abre el proyecto y verifica que los archivos estén en `src/EstructuraDeDatos/Estructuras_Lineales/Programacion_Modular`.
 2. Haz clic derecho sobre cada `Main` y elige **Run 'Main....main()'**.
 
 ---
